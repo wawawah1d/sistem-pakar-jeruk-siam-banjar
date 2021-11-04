@@ -1,0 +1,15 @@
+							|
+===========---//INSTALASI SOURCE CODE\\---==============|
+							|
+-Ekstrak source code					|
+-Jika menggunakan xampp simpan folder spkjruk ke dalam	|
+ folder htdocs						|
+-Buat database baru dengan nama spkjeruk			|
+-import file spkjeruk.sql yang ada di folder db ke dalam	|
+ database yang dibuat tadi				|
+-Buka browser lalu jalankan dengan menuliskan 		|
+ localhost/spkjeruk					|
+							|
+user: admin				pass: admin	|
+========================================================|
+=============-----/////FAQ ERROR\\\\\-----==============
